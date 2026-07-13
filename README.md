@@ -146,6 +146,6 @@ Interested in RTL Design, FPGA Design, Digital Design and Verification.
 
 ---
 
-## License
+
 
 This project is intended for learning and educational purposes.
